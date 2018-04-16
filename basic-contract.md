@@ -25,3 +25,8 @@ contract Inbox {
 }
 
 ````
+
+### Compile Contract
+For this workshop we are are not going to deploy to either the ethereum testnet or main net. We will instead use the javascript virtal network inbuilt in to remix, this will let us start working with our contracts more quickly.
+
+![Select JavaScript VM](https://github.com/RachBLondon/smart-contracts-quick-intro/blob/master/javascript-vm.png?raw=true)
