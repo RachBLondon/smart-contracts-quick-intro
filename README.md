@@ -22,10 +22,10 @@ This is a short (1 hour 😱) workshop that will be a very quick intro in smart 
 
 #### Ethereum is a public network of nodes. 
 These nodes store and transfer data. This network is open and anyone can connect.
-![Ethereum Nodes](https://github.com/RachBLondon/smart-contracts-quick-intro/blob/master/eth-nodes.png?raw=true)
+![Ethereum Nodes](https://github.com/RachBLondon/smart-contracts-quick-intro/blob/master/images/eth-nodes.png?raw=true)
 
 Developers can connect to the network using **web3.js** and consumers can connect to DAPP's on the ethereum network using [**Mist browser**](https://github.com/ethereum/mist) or [**Metamask**](https://metamask.io/)
-![Connecting to the Ethereum Network](https://github.com/RachBLondon/smart-contracts-quick-intro/blob/master/connecting-eth-nodes.png?raw=true)
+![Connecting to the Ethereum Network](https://github.com/RachBLondon/smart-contracts-quick-intro/blob/master/images/connecting-eth-nodes.png?raw=true)
 
 
 
