@@ -31,8 +31,11 @@ For this workshop we are are not going to deploy to either the ethereum testnet 
 
 ![Select JavaScript VM](https://github.com/RachBLondon/smart-contracts-quick-intro/blob/master/images/javascript-vm.png?raw=true)
 
-After this has been selected you can deploy your contract by clicking create ![Create](https://github.com/RachBLondon/smart-contracts-quick-intro/blob/master/images/create.png?raw=true) 
+1. After this has been selected you can deploy your contract by clicking create ![Create](https://github.com/RachBLondon/smart-contracts-quick-intro/blob/master/images/create.png?raw=true) 
+
+2. Below create you shoould now see an box with three buttons (`setMessage`, `getMessage` and `message`). First lets try `getMessage`, this should return the string message. If you get `0: string:` then that is because when you deployed your contract you did not add an initalMessage (done in the box next to the create button). If you did this, redeploy your contract by clicking create and adding a string in the input box to the left *hint - strings (words and characters) need to be surrounded with "".
 
 
-### Adding a message
+
+
 
