@@ -6,6 +6,7 @@ This is a short (1 hour 😱) workshop that will be a very quick intro in smart 
 
 ### Questions:
 * Who has worked with Ethereum/ solidity before ?
+* Who has worked with Javascript or another programing language?
 * Who owns ETH?
 
 
