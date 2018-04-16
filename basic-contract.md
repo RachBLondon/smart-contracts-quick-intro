@@ -35,6 +35,18 @@ For this workshop we are are not going to deploy to either the ethereum testnet 
 
 2. Below create you shoould now see an box with three buttons (`setMessage`, `getMessage` and `message`). First lets try `getMessage`, this should return the string message. If you get `0: string:` then that is because when you deployed your contract you did not add an initalMessage (done in the box next to the create button). If you did this, redeploy your contract by clicking create and adding a string in the input box to the left *hint - strings (words and characters) need to be surrounded with "".
 
+3. Change your `message` again using the `setMessage` function. Again pay attention to the "".
+
+4. Looking at `message` and `getMessage` we can see that they really do the same thing. That is because `message` is a public string so it is viewable outside of the contract. 
+
+## Extension
+
+5. Let's extend our contract to be able to also take a string which contains the senders email or name (no need for validation). Add another variable called `sender` in to the contract, this time we won't make it public.
+
+6. Now adapt `setMessage` to take a second string as an argument to assign to the var `sender` just as we did for `message`.
+
+7. Write a function `getSender` which returns the sender string.
+
 
 
 
