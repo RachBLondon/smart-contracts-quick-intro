@@ -39,6 +39,7 @@ For this workshop we are are not going to deploy to either the ethereum testnet 
 
 4. Looking at `message` and `getMessage` we can see that they really do the same thing. That is because `message` is a public string so it is viewable outside of the contract. 
 
+
 ## Extension
 
 5. Let's extend our contract to be able to also take a string which contains the senders email or name (no need for validation). Add another variable called `sender` in to the contract, this time we won't make it public.
@@ -46,6 +47,13 @@ For this workshop we are are not going to deploy to either the ethereum testnet 
 6. Now adapt `setMessage` to take a second string as an argument to assign to the var `sender` just as we did for `message`.
 
 7. Write a function `getSender` which returns the sender string.
+
+
+
+## Token Contract
+Feel free to investigate:
+https://ethereum.org/token
+
 
 
 
