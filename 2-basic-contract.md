@@ -26,6 +26,8 @@ contract Inbox {
 
 ````
 
+![Smart Contract](https://github.com/RachBLondon/smart-contracts-quick-intro/blob/master/images/smartcontract-2.png)
+
 ### Compile Contract
 For this workshop we are are not going to deploy to either the ethereum testnet or main net. We will instead use the javascript virtal network inbuilt in to remix, this will let us start working with our contracts more quickly.
 
